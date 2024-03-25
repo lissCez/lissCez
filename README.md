@@ -4,7 +4,6 @@
   <h2>Sobre mim</h2>
 💻| Aspirante a Desenvolvedora Web e Moble<br>
 📚| Cursando atualmente Analise e Desenvolvimento de Sistemas na FIAP<br>
-👨🏻‍💻| Estudando para Certificação OCA Java SE 8 Programmer - Associate da ORACLE <br>
 📱 | Focando atualmente em Desenvolvimento de sites para web<br>
 🧠| Tenho certificados e formações de nível básico na área de tecnologia nas plataformas, Alura, FGV e Fundação Bradesco<br>
 </div>
