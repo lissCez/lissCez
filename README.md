@@ -2,7 +2,7 @@
 <h1 align = "center"<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=40&pause=1000&color=3fdb37&center=true&vCenter=true&random=false&width=635&height=50&lines=Olá!+Me+chamo+Alissa+Cezero.;Sou+aspirante+a+Desenvolvedora;" alt="Typing SVG" /></a></h1>
 <div>
   <h2>Sobre mim</h2>
-💻| Aspirante a Desenvolvedora Web e Moble<br>
+💻| Aspirante a Desenvolvedora Web e Mobile<br>
 📚| Cursando atualmente Analise e Desenvolvimento de Sistemas na FIAP<br>
 📱 | Focando atualmente em Desenvolvimento de sites para web<br>
 🧠| Tenho certificados e formações de nível básico na área de tecnologia nas plataformas, Alura, FGV e Fundação Bradesco<br>
