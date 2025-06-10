@@ -3,9 +3,9 @@
 <div>
   <h2>Sobre mim</h2>
 💻| Aspirante a Desenvolvedora Web e Mobile;<br>
-📚| Cursando atualmente Analise e Desenvolvimento de Sistemas na FIAP;<br>
-📱 | Focando atualmente em Desenvolvimento de sites para web;<br>
-🧠| Tenho certificados e formações de nível básico na área de tecnologia nas plataformas, Alura, FGV e Fundação Bradesco.<br>
+📚| Sou formada em Análise e Desenvolvimento de Sistemas na FIAP;<br>
+📱 | Focando atualmente em Desenvolvimento de sites para web e Aplicativos Mobile;<br>
+🧠| Tenho certificados e formações de nível básico ao Avançado na área de tecnologia nas plataformas, Alura, FGV e Fundação Bradesco.<br>
 </div>
 
 <div align="center">
